@@ -1,0 +1,32 @@
+#img-div{
+	background:#e0e0e0;
+	
+  }
+  #titulo{
+	text-align:center;
+  }
+  
+  #image{
+  margin:auto;
+  display:block;
+  max-width: 100%;
+  
+  }
+  
+  .image{
+  background:white;
+  }
+  
+  #img-caption{
+  background:white;
+  text-align:center;
+  }
+  h3{
+   text-align:center; 
+   font-family: 'PT Serif', serif;
+  }
+  li{
+	margin-top: 5px;
+	margin-left: 100px;
+	margin-right: 20px;
+  }
